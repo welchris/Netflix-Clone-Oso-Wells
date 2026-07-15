@@ -100,6 +100,13 @@
   width: 60px;
 }
 
+.demo-warning {
+  color: #ffcc00;
+  font-size: 13px;
+  line-height: 1.4;
+  margin-bottom: 16px;
+}
+
 @media (max-width: 500px) {
   .login {
     padding: 15px 5%;
